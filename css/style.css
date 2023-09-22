@@ -1,0 +1,146 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+header{
+    width:100%;
+    height:150px;
+    background-color:#618264;
+}
+
+footer{
+    width:100%;
+    height:120px;
+    background-color:#79AC78;
+}
+
+table{
+    background-color:#B0D9B1;
+    width:100%;
+}
+
+table tr{
+    background-color:#D0E7D2;
+}
+
+#cel1{
+    width:150px;
+    height:30px;
+    background-color:#EF9595;
+    color:#65647C;
+}
+#cel2{
+    width:150px;
+    height:30px;
+    background-color:#EFB495;
+    color:#8B7E74;
+}
+#cel3{
+    width:150px;
+    height:30px;
+    background-color:#EFD595;
+    color:#C7BCA1;
+}
+#cel4{
+    width:150px;
+    height:30px;
+    background-color:#EBEF95;
+    color:#F1D3B3;
+}
+#cel5{
+    width:150px;
+    height:30px;
+    background-color:#96B6C5;
+}
+#cel5 img{
+    width:50px;
+    height:50px;
+}
+#cel6{
+    width:150px;
+    height:30px;
+    background-color:#ADC4CE;
+}
+#cel6 img{
+    width:50px;
+    height:50px;
+}
+#cel7{
+    width:150px;
+    height:30px;
+    background-color:#EEE0C9;
+}
+#cel7 img{
+    width:50px;
+    height:50px;
+}
+#cel8{
+    width:150px;
+    height:30px;
+    background-color:#F1F0E8;
+}
+#cel8 img{
+    width:50px;
+    height:50px;
+}
+#cel9{
+    width:150px;
+    height:30px;
+    background-color:#F1C27B;
+    color:#554994;
+}
+#cel10{
+    width:150px;
+    height:30px;
+    background-color:#FFD89C;
+    color:#F675A8;
+}
+#cel11{
+    width:150px;
+    height:30px;
+    background-color:#A2CDB0;
+    color:#F29393;
+}
+#cel12{
+    width:150px;
+    height:30px;
+    background-color:#85A389;
+    color:#FFCCB3;
+}
+#cel13{
+    width:150px;
+    height:30px;
+    background-color:#B2A4FF;
+}
+#cel13 img{
+    width:50px;
+    height:50px;
+}
+#cel14{
+    width:150px;
+    height:30px;
+    background-color:#FFB4B4;
+}
+#cel14 img{
+    width:50px;
+    height:50px;
+}
+#cel15{
+    width:150px;
+    height:30px;
+    background-color:#FFDEB4;
+}
+#cel15 img{
+    width:50px;
+    height:50px;
+}
+#cel16{
+    width:150px;
+    height:30px;
+    background-color:#FDF7C3;
+}
+#cel16 img{
+    width:50px;
+    height:50px;
+}
